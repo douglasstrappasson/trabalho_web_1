@@ -1,0 +1,65 @@
+*{margin:0px; padding:0px; font-family: arial;}
+
+body{background-color: #524d4d; width: 1200px; margin: auto; margin-top: 5px; }
+
+img {position: relative; border: solid 0px transparent; box-sizing:fill ; width: 100%; height: 50px;}
+
+.titulo{position: absolute; top: 0%; padding: 15px 0px 0px 250px; color: white;}
+
+.titulo #h1 {font-size: 56px; text-align: center; color: white;}
+
+.menu{width: 20%; height: 600px; float: left; background-color: #0c233f; padding: 5px; }
+
+p{text-align: justify; color: white;}
+
+li{width: 100%; height: 50px; line-height: 50px; background-color: rgb(23, 92, 118); text-align: center; list-style: none; margin-bottom: 5px; font-size: 14px; }
+
+li:hover{background-color: rgba(23, 92, 118, 0.8); }
+
+a{text-decoration:none; color: white;}
+
+h2{margin: 10px 0 10px 50px; color: white;}
+
+. {margin: auto; width: 90%; height: 80%; padding: 30px; border: 1px solid #CCC; border-radius: 1em;}
+
+.consulta, .cadastro {text-align: left; width: 945px; height: auto; float:right; background-color: #0c233f;}
+
+#container{margin: 10px; border: 1px solid #CCC; border-radius: 10px; width: 925px;}
+
+.bloco {border: 1px solid transparent; border-radius: 5px; color: white; float: center; background-color: rgb(23, 92, 118); width: 885px;  padding: 10px; clear: both; margin: 10px;}
+
+.label-left {color: white; float: left; text-align: left; margin: 5px; clear: both;}
+
+.label-left-form {color: white; float: left; text-align: left; width: 452px; margin-top: 20px; margin-left: 5px;}
+
+.label-left-form-clear {color: white; float: left; text-align: left; clear: both; width: 452px; margin-top: 20px; margin-left: 15px;}
+
+.label-right {color: white; float: right; text-align: left; display: table; margin: 0px 1px 5px 5px;}
+
+.label-right-form {color: white; float: right; text-align: left; display: table;}
+
+#qtd_reg{margin-left: 40%;}
+
+.campo-right{float: right; text-align: left; color: black; width: 30px; margin: 0px 25px 5px 5px; margin-top: 5px; }
+
+.campo-right-form{float: right; text-align: left; color: black; width: 440px; margin-top: 5px;}
+
+.campo-left{float: left; text-align: left; color: black; display: table;}
+
+.campo-left-form{float: left; text-align: left; color: black; display: table; width: 442px; margin-left: 10px; }
+
+.campo-left-form-clear{float: left; text-align: left; color: black; display: table; width: 442px; clear: both; margin-left: 10px }
+
+#campo-inf-adc{width: 897px;}
+
+#filtro {width: 555px; margin-top: 5px;}
+
+.botao-left{color: white; float: left; width:100px;  background-color: rgb(23, 92, 118); display: table; margin-left: 10px; margin: 5px; }
+
+.botao-left-form{color: white; float: left; width:100px; height: 25px; background-color: rgb(23, 92, 118); display: table; margin: 15px; }
+
+.botao-left-form-clear{color: white; float: left; width:100px; height: 25px;  background-color: rgb(23, 92, 118); display: table; margin: 15px;  clear: both;}
+
+.botao-left-form-clear:hover, .botao-left-form:hover, .botao-left:hover {background-color: rgba(23, 92, 118, 0.8); }
+
+footer{}
